@@ -1,0 +1,41 @@
+{
+    "WINDOW_WIDTH": 700,
+    "WINDOW_HEIGHT": 500,
+    "MAP_BLOCK_SIZE": 20,
+
+    "MAP_WIDTH": 1000,
+    "MAP_HEIGHT": 1000,
+    "MAP_NUM_ELLIPSES": 10,
+    "MAP_WARP_FREQUENCY": 10,
+    "MAP_WARM_MAGNITUDE": 20,
+
+    "NOISE_SCALE": 100,
+    "NOISE_OCTAVES": 4,
+    "NOISE_PERSISTENCE": 0.5,
+    "NOISE_LACUNARITY": 2,
+
+    "RIVER_MIN_PROXIMITY": 30,
+    "RIVER_MIN_LENGTH": 50,
+    "RIVER_MAX_LENGTH": 200,
+    "RIVER_MAX_BRANCHES": 3,
+    "RIVER_START_HEIGHT_THRESHOLD": 70,
+    "RIVER_SEA_LEVEL": 20,
+    "RIVER_MAX_ATTEMPTS": 100,
+
+    "COLORS_GREEN_SHADES": [
+        [58, 178, 64],
+        [50, 152, 55],
+        [42, 127, 46],
+        [33, 102, 37],
+        [25, 76, 28],
+        [17, 51, 18]
+    ],
+    "COLORS_BLUE_SHADES": [
+        [54, 117, 188],
+        [49, 105, 169],
+        [43, 94, 150],
+        [38, 82, 132],
+        [32, 70, 113],
+        [27, 59, 94]
+    ]
+}
