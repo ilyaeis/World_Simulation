@@ -37,5 +37,29 @@
         [38, 82, 132],
         [32, 70, 113],
         [27, 59, 94]
-    ]
+    ],
+
+    "CHARACTER_OLD_AGE": 50,
+    "CHARACTER_OLD_AGE_STATSDEBUFF": 0.2,
+    "CHARACTER_YOUNG_AGE": 10,
+    "CHARACTER_YOUNG_AGE_GROWTHBUFF": 0.2,
+
+    "CHARACTER_OLD_MAN": "/sprites/characters/Old_man",
+    "CHARACTER_OLD_WOMAN": "/sprites/characters/Old_woman",
+    "CHARACTER_MAN": "/sprites/characters/Man",
+    "CHARACTER_WOMAN": "/sprites/characters/Woman",
+    "CHARACTER_YOUNG_MAN": "/sprites/characters/Young_man",
+    "CHARACTER_YOUNG_WOMAN": "/sprites/characters/Young_woman",
+
+    "MOB_FIRE_SPIRIT": "/sprites/mobs/Fire_spirit",
+    "MOB_PLENT": "/sprites/mobs/Plent",
+    "MOB_SKELETON": "/sprites/mobs/Skeleton",
+    "MOB_SLIME": ["/sprites/mobs/Slimes/Slime1", "/sprites/mobs/Slimes/Slime2", "/sprites/mobs/Slimes/Slime3"],
+    "MOB_WEREWOLFS": ["/sprites/mobs/Werewolfs/Werewolf1", "/sprites/mobs/Werewolfs/Werewolf2", "/sprites/mobs/Werewolfs/Werewolf3"],
+
+    "VILLAGE_HOUSES": "/sprites/village/houses",
+    "VILLAGE_TENTS": "/sprites/village/tents",
+
+    "WORLD_STONES": ["/sprites/world/stones/Stone1", "/sprites/world/stones/Stone2", "/sprites/world/stones/Stone3", "/sprites/world/stones/Stone4", "/sprites/world/stones/Stone5", "/sprites/world/stones/Stone6"],
+    "WORLD_TREES": ["/sprites/world/trees/Christmas_tree", "/sprites/world/trees/Flower_tree", "/sprites/world/trees/Fruit_tree", "/sprites/world/trees/Tree"]
 }

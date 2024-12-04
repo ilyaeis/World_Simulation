@@ -16,16 +16,9 @@ The map is the foundation of your world, setting the stage for all interactions.
 
 ##### Forests
 - Overlay forest density using another noise function, which can:
-	 - Be concentrated around certain height levels or near rivers.
+	- Be concentrated around certain height levels or near rivers.
 	- Create clusters of trees rather than uniform coverage.
 - Add variation in forest types (e.g., pine forests in highlands, tropical forests near water).
-
-##### Rivers
-- Rivers can be generated procedurally based on terrain height. A few techniques:
-  1. Gradient Descent: Start at a random high point and simulate water flow by moving to the lowest neighboring point until it reaches a water body or a predefined map edge.
-  2. Pathfinding Algorithms: Use algorithms like A* to simulate river paths, prioritizing downward slopes.
-  3. Branching Rivers: Introduce tributaries by splitting the flow at random points and merging into a main river.
-- Rivers could influence nearby biomes, creating fertile areas for villages.
 
 ##### Additional Features
 - Add cliffs, caves, bridges, or unique landmarks to make the world more dynamic.
